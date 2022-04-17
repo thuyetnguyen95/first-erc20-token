@@ -19,6 +19,7 @@
   "homepage": "https://github.com/thuyetnguyen95/first-erc20-token#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
     "hardhat": "^2.9.3"
   }
 }
